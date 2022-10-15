@@ -65,5 +65,24 @@
 }
 .ras
 {
-    background-color: lightblue;
+    background-color: rgb(20, 163, 211);
+}
+.pg4{ margin-bottom: 30px;}
+.pg4 h1{
+    
+    color: rgb(5, 7, 95);
+    font-weight: bolder;
+}
+.pgh5
+{
+    padding: 20px;
+}
+.adoc
+{
+    margin-right: 30px;
+    
+}
+.frm
+{
+    width: 70%;
 }
